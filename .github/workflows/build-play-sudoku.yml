@@ -21,11 +21,10 @@ jobs:
           node-version: 22
           cache: npm
           cache-dependency-path: PlaySudoku/package-lock.json
-      - uses: actions/setup-java@v4
+      - uses: actions/setup-java@v5
         with:
           distribution: temurin
           java-version: 21
-      - uses: android-actions/setup-android@v3
       - run: npm ci
       - run: npm test
       - run: npx cap sync android
