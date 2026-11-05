@@ -1,0 +1,56 @@
+name: Build Play Sudoku
+on:
+  push:
+    branches: [main, add-play-sudoku]
+    paths:
+      - 'PlaySudoku/**'
+      - '.github/workflows/build-play-sudoku.yml'
+  workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: PlaySudoku
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: PlaySudoku/package-lock.json
+      - uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: 21
+      - run: npm ci
+      - run: npm test
+      - run: npx cap sync android
+      - name: Build test APK
+        working-directory: PlaySudoku/android
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleDebug --no-daemon
+      - uses: actions/upload-artifact@v4
+        with:
+          name: play-sudoku-test-apk
+          path: PlaySudoku/android/app/build/outputs/apk/debug/*.apk
+      - name: Build signed Play Store bundle
+        env:
+          KEYSTORE_B64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+        working-directory: PlaySudoku/android
+        run: |
+          if [ -z "$KEYSTORE_B64" ]; then echo "No signing key saved yet, skipping"; exit 0; fi
+          echo "$KEYSTORE_B64" | base64 -d > "$RUNNER_TEMP/upload.keystore"
+          export ANDROID_KEYSTORE_FILE="$RUNNER_TEMP/upload.keystore"
+          ./gradlew bundleRelease --no-daemon
+      - uses: actions/upload-artifact@v4
+        with:
+          name: play-sudoku-play-bundle
+          path: PlaySudoku/android/app/build/outputs/bundle/release/*.aab
+          if-no-files-found: ignore
