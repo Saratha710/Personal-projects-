@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:gravity="center" android:padding="28dp">
+    <ScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"
+        android:fillViewport="true">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:gravity="center_vertical">
+            <TextView android:id="@+id/quote_text" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:fontFamily="serif"
+                android:lineSpacingMultiplier="1.25" android:textColor="@color/ink" android:textSize="28sp" />
+            <TextView android:id="@+id/quote_meaning"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp" android:lineSpacingMultiplier="1.15"
+                android:textColor="@color/ink" android:textSize="18sp" />
+            <TextView android:id="@+id/quote_source" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:layout_marginTop="20dp"
+                android:textColor="@color/muted" android:textSize="16sp" />
+        </LinearLayout>
+    </ScrollView>
+    <Button android:id="@+id/stop" android:layout_width="match_parent" android:layout_height="60dp"
+        android:layout_marginTop="16dp" android:background="@drawable/button_fill"
+        android:stateListAnimator="@null" android:text="@string/alarm_stop" android:textAllCaps="false"
+        android:textColor="@color/paper" android:textSize="18sp" />
+    <Button android:id="@+id/snooze" android:layout_width="match_parent" android:layout_height="60dp"
+        android:layout_marginTop="12dp" android:background="@drawable/button_line"
+        android:stateListAnimator="@null" android:text="@string/alarm_snooze" android:textAllCaps="false"
+        android:textColor="@color/accent" android:textSize="18sp" />
+</LinearLayout>

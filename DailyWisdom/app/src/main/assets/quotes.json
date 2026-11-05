@@ -1,0 +1,932 @@
+[
+ {
+  "text": "If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Walk boldly toward your dreams and live the life you imagine. Success will come in ways you did not expect."
+ },
+ {
+  "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Live with attention to what truly matters, so you never look back and feel you missed your own life."
+ },
+ {
+  "text": "However mean your life is, meet it and live it; do not shun it and call it hard names.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Even if your life feels small or hard, face it honestly. Do not run from it or insult it."
+ },
+ {
+  "text": "Love your life, poor as it is.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Value the life you have, even when you do not have much."
+ },
+ {
+  "text": "If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "If you are not like the people around you, that is fine. Follow your own path at your own pace."
+ },
+ {
+  "text": "Only that day dawns to which we are awake. There is more day to dawn. The sun is but a morning star.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "A new day only begins for us when we are truly awake to it. Far more is still possible."
+ },
+ {
+  "text": "A man is rich in proportion to the number of things which he can afford to let alone.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "True wealth is not owning more. It is being happy without needing so many things."
+ },
+ {
+  "text": "Things do not change; we change.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "The world often stays the same. What changes is us and how we see it."
+ },
+ {
+  "text": "Every morning was a cheerful invitation to make my life of equal simplicity, and I may say innocence, with Nature herself.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Each morning invited him to live simply and purely, in step with nature."
+ },
+ {
+  "text": "It is never too late to give up our prejudices.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "You can drop an unfair opinion at any age. It is always possible to think better."
+ },
+ {
+  "text": "What a man thinks of himself, that it is which determines, or rather indicates, his fate.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "What you believe about yourself shapes the life you end up living."
+ },
+ {
+  "text": "I know of no more encouraging fact than the unquestionable ability of man to elevate his life by a conscious endeavor.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "The most hopeful truth is that anyone can improve their life through steady, conscious effort."
+ },
+ {
+  "text": "If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Big dreams are not wasted. Keep them high, then do the real work that makes them solid."
+ },
+ {
+  "text": "Morning is when I am awake and there is a dawn in me.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Morning is not a time on the clock. It is the feeling of being fresh and alive inside."
+ },
+ {
+  "text": "To affect the quality of the day, that is the highest of arts.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "The greatest skill is making today better through how you live it."
+ },
+ {
+  "text": "Trust thyself: every heart vibrates to that iron string.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Essays",
+  "meaning": "Believe in yourself. Everyone has something inside that responds to this truth."
+ },
+ {
+  "text": "Nothing can bring you peace but yourself.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Essays",
+  "meaning": "Real peace does not come from people or things. It comes from within you."
+ },
+ {
+  "text": "Nothing great was ever achieved without enthusiasm.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Essays",
+  "meaning": "Great things need excitement and energy. Without passion, nothing big gets done."
+ },
+ {
+  "text": "The only reward of virtue, is virtue; the only way to have a friend is to be one.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Essays",
+  "meaning": "Doing good is its own reward. If you want a friend, be a good friend first."
+ },
+ {
+  "text": "A friend may well be reckoned the masterpiece of nature.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Essays",
+  "meaning": "A true friend is one of the finest things life can give you."
+ },
+ {
+  "text": "Insist on yourself; never imitate.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Essays",
+  "meaning": "Be fully yourself and trust your own gifts. Do not copy other people."
+ },
+ {
+  "text": "A man is relieved and gay when he has put his heart into his work and done his best.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Essays",
+  "meaning": "You feel light and happy after giving your whole heart to your work and doing your best."
+ },
+ {
+  "text": "Whoso would be a man must be a nonconformist.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Essays",
+  "meaning": "To be your true self, you must sometimes refuse to follow the crowd."
+ },
+ {
+  "text": "Always do what you are afraid to do.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Essays",
+  "meaning": "Grow by facing the things that scare you. Courage comes from doing them."
+ },
+ {
+  "text": "Self-trust is the essence of heroism.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Essays",
+  "meaning": "Being a hero begins with trusting yourself."
+ },
+ {
+  "text": "Though we travel the world over to find the beautiful, we must carry it with us, or we find it not.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Essays",
+  "meaning": "You can travel everywhere, but you only see beauty if you already carry it inside you."
+ },
+ {
+  "text": "Light, my light, the world-filling light, the eye-kissing light, heart-sweetening light!",
+  "author": "Rabindranath Tagore",
+  "work": "Gitanjali",
+  "meaning": "A joyful song of thanks for light, which fills the world and warms the heart."
+ },
+ {
+  "text": "Men are anxious to improve their circumstances, but are unwilling to improve themselves.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "People want a better life, but they do not want to change themselves. Real change starts within."
+ },
+ {
+  "text": "Dream lofty dreams, and as you dream, so shall you become.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Aim high in your dreams, because you slowly grow into what you dream of."
+ },
+ {
+  "text": "Your Vision is the promise of what you shall one day be; your Ideal is the prophecy of what you shall at last unveil.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Your dreams and ideals show the person you can become one day."
+ },
+ {
+  "text": "Calmness of mind is one of the beautiful jewels of wisdom.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "A calm mind is one of the finest signs of true wisdom."
+ },
+ {
+  "text": "Self-control is strength; Right Thought is mastery; Calmness is power.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Controlling yourself gives strength, good thinking gives skill, and staying calm gives power."
+ },
+ {
+  "text": "The dreamers are the saviours of the world.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "People who imagine a better world are the ones who help create it."
+ },
+ {
+  "text": "Cherish your visions; cherish your ideals.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Hold your dreams and values close, and protect them."
+ },
+ {
+  "text": "Thought allied fearlessly to purpose becomes creative force.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "When your thinking is joined to a clear goal, without fear, it can create real results."
+ },
+ {
+  "text": "He who has conquered doubt and fear has conquered failure.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Beat your doubt and fear, and failure can no longer stop you."
+ },
+ {
+  "text": "Circumstance does not make the man; it reveals him to himself.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Your situation does not make you who you are. It shows you who you already are."
+ },
+ {
+  "text": "I exist as I am, that is enough.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "You do not have to prove anything. Being yourself is enough."
+ },
+ {
+  "text": "Afoot and light-hearted I take to the open road, Healthy, free, the world before me.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "Set out with a happy heart. You are well, you are free, and the whole world is open to you."
+ },
+ {
+  "text": "I am large, I contain multitudes.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "A person is full of many sides, and they do not all have to match."
+ },
+ {
+  "text": "That you are here—that life exists and identity, That the powerful play goes on, and you may contribute a verse.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "You are alive, and life goes on like a great play. You can add your own line to it."
+ },
+ {
+  "text": "To me every hour of the light and dark is a miracle, Every cubic inch of space is a miracle.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "Every moment and every small part of the world is a wonder, if you really notice it."
+ },
+ {
+  "text": "Henceforth I ask not good-fortune, I myself am good-fortune.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "From now on I will not wait for luck. I make my own good fortune."
+ },
+ {
+  "text": "I am larger, better than I thought, I did not know I held so much goodness.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "I am bigger and kinder than I knew. There was more good in me than I imagined."
+ },
+ {
+  "text": "This above all: to thine own self be true.",
+  "author": "William Shakespeare",
+  "work": "Hamlet",
+  "meaning": "Most of all, be honest with yourself and stay true to who you are."
+ },
+ {
+  "text": "There is nothing either good or bad, but thinking makes it so.",
+  "author": "William Shakespeare",
+  "work": "Hamlet",
+  "meaning": "Events are not good or bad on their own. Your thoughts about them decide how they feel."
+ },
+ {
+  "text": "We know what we are, but know not what we may be.",
+  "author": "William Shakespeare",
+  "work": "Hamlet",
+  "meaning": "We know who we are today, but we have no idea how much we can become."
+ },
+ {
+  "text": "The readiness is all.",
+  "author": "William Shakespeare",
+  "work": "Hamlet",
+  "meaning": "You cannot control what comes. What matters is being prepared for it."
+ },
+ {
+  "text": "Give every man thy ear, but few thy voice.",
+  "author": "William Shakespeare",
+  "work": "Hamlet",
+  "meaning": "Listen to everyone, but speak to only a few. Hear more than you say."
+ },
+ {
+  "text": "How far that little candle throws his beams! So shines a good deed in a naughty world.",
+  "author": "William Shakespeare",
+  "work": "The Merchant of Venice",
+  "meaning": "A small candle shines far, and one good deed brightens a dark world in the same way."
+ },
+ {
+  "text": "Love looks not with the eyes, but with the mind.",
+  "author": "William Shakespeare",
+  "work": "A Midsummer Night's Dream",
+  "meaning": "True love does not depend on looks. It sees the person inside."
+ },
+ {
+  "text": "Though she be but little, she is fierce.",
+  "author": "William Shakespeare",
+  "work": "A Midsummer Night's Dream",
+  "meaning": "Do not judge by size. A small person can be very strong and brave."
+ },
+ {
+  "text": "My bounty is as boundless as the sea, My love as deep; the more I give to thee, The more I have, for both are infinite.",
+  "author": "William Shakespeare",
+  "work": "Romeo and Juliet",
+  "meaning": "Love is like the endless sea. The more I give, the more I have."
+ },
+ {
+  "text": "There is a tide in the affairs of men, Which, taken at the flood, leads on to fortune.",
+  "author": "William Shakespeare",
+  "work": "Julius Caesar",
+  "meaning": "Life brings moments of opportunity. Act when the time is right and it can carry you to success."
+ },
+ {
+  "text": "Men at some time are masters of their fates.",
+  "author": "William Shakespeare",
+  "work": "Julius Caesar",
+  "meaning": "At certain moments, people have the power to shape their own future."
+ },
+ {
+  "text": "Screw your courage to the sticking-place, And we'll not fail.",
+  "author": "William Shakespeare",
+  "work": "Macbeth",
+  "meaning": "Gather all your courage and hold on firmly. If you do, you will not fail."
+ },
+ {
+  "text": "I'm not afraid of storms, for I'm learning how to sail my ship.",
+  "author": "Louisa May Alcott",
+  "work": "Little Women",
+  "meaning": "Life's troubles do not scare me, because I am learning how to handle them."
+ },
+ {
+  "text": "Love is a great beautifier.",
+  "author": "Louisa May Alcott",
+  "work": "Little Women",
+  "meaning": "Love makes people look and feel more beautiful."
+ },
+ {
+  "text": "Never get tired of trying, and never think it is impossible to conquer your fault.",
+  "author": "Louisa May Alcott",
+  "work": "Little Women",
+  "meaning": "Keep trying and never believe that your faults are too strong to overcome."
+ },
+ {
+  "text": "There is always light behind the clouds.",
+  "author": "Louisa May Alcott",
+  "work": "Little Women",
+  "meaning": "Even in hard times, hope is still there. Bad days always hide something brighter."
+ },
+ {
+  "text": "Have regular hours for work and play, make each day both useful and pleasant.",
+  "author": "Louisa May Alcott",
+  "work": "Little Women",
+  "meaning": "Keep a balance of work and fun, so each day is both useful and enjoyable."
+ },
+ {
+  "text": "Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "Every day is a fresh start. Yesterday's mistakes do not have to follow you."
+ },
+ {
+  "text": "I'm so glad I live in a world where there are Octobers.",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "Enjoy the small seasons and beauties of life, and feel glad that they exist."
+ },
+ {
+  "text": "It's delightful when your imaginations come true, isn't it?",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "It is a special joy when the things you once imagined really happen."
+ },
+ {
+  "text": "Kindred spirits are not so scarce as I used to think.",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "People who truly understand you are easier to find than you once thought."
+ },
+ {
+  "text": "\"Dear old world,\" she murmured, \"you are very lovely, and I am glad to be alive in you.\"",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "Pause to love the world and feel thankful just to be alive in it."
+ },
+ {
+  "text": "All things great are wound up with all things little.",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "Great things are always connected to small things, so small things matter too."
+ },
+ {
+  "text": "Next to trying and winning, the best thing is trying and failing.",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "Trying and failing is still valuable. It is far better than never trying at all."
+ },
+ {
+  "text": "It's good to be alive and to be going home.",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "Simple things, like being alive and going home, are real happiness."
+ },
+ {
+  "text": "Looking forward to things is half the pleasure of them.",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "Being excited about something good is already half the joy of it."
+ },
+ {
+  "text": "Where you tend a rose, my lad, A thistle cannot grow.",
+  "author": "Frances Hodgson Burnett",
+  "work": "The Secret Garden",
+  "meaning": "Care for good things in your mind and life, and there will be no room for bad things to grow."
+ },
+ {
+  "text": "At first people refuse to believe that a strange new thing can be done, then they begin to hope it can be done, then they see it can be done.",
+  "author": "Frances Hodgson Burnett",
+  "work": "The Secret Garden",
+  "meaning": "New ideas seem impossible at first. Then people hope, then they see it, and soon it feels normal."
+ },
+ {
+  "text": "Thoughts—just mere thoughts—are as powerful as electric batteries—as good for one as sunlight is.",
+  "author": "Frances Hodgson Burnett",
+  "work": "The Secret Garden",
+  "meaning": "Your thoughts have real power. Good thoughts can heal and strengthen you, like sunlight."
+ },
+ {
+  "text": "Think only of the past as its remembrance gives you pleasure.",
+  "author": "Jane Austen",
+  "work": "Pride and Prejudice",
+  "meaning": "Do not carry past pain. Remember only the parts that make you happy."
+ },
+ {
+  "text": "My courage always rises at every attempt to intimidate me.",
+  "author": "Jane Austen",
+  "work": "Pride and Prejudice",
+  "meaning": "When someone tries to frighten me, I only become braver."
+ },
+ {
+  "text": "There is nothing like staying at home for real comfort.",
+  "author": "Jane Austen",
+  "work": "Emma",
+  "meaning": "Home gives a comfort that nothing else in the world can."
+ },
+ {
+  "text": "Know your own happiness.",
+  "author": "Jane Austen",
+  "work": "Sense and Sensibility",
+  "meaning": "Notice how much you already have, and be thankful for your own happiness."
+ },
+ {
+  "text": "Heaven knows we need never be ashamed of our tears, for they are rain upon the blinding dust of earth, overlying our hard hearts.",
+  "author": "Charles Dickens",
+  "work": "Great Expectations",
+  "meaning": "Crying is nothing to be ashamed of. Tears wash the heart clean, as rain washes dust away."
+ },
+ {
+  "text": "Whatever I have tried to do in life, I have tried with all my heart to do well.",
+  "author": "Charles Dickens",
+  "work": "David Copperfield",
+  "meaning": "Whatever work I took up, I gave it my whole heart. That is the secret of doing things well."
+ },
+ {
+  "text": "Never do tomorrow what you can do today. Procrastination is the thief of time.",
+  "author": "Charles Dickens",
+  "work": "David Copperfield",
+  "meaning": "Do it today. Putting things off quietly steals your time."
+ },
+ {
+  "text": "What do we live for, if it is not to make life less difficult to each other?",
+  "author": "George Eliot",
+  "work": "Middlemarch",
+  "meaning": "We are here to make life a little easier for each other."
+ },
+ {
+  "text": "The growing good of the world is partly dependent on unhistoric acts.",
+  "author": "George Eliot",
+  "work": "Middlemarch",
+  "meaning": "The world gets better through small, quiet good deeds that nobody ever writes about."
+ },
+ {
+  "text": "Everything comes in time to him who knows how to wait.",
+  "author": "Leo Tolstoy",
+  "work": "War and Peace (tr. Maude)",
+  "meaning": "With patience, the right things come at the right time."
+ },
+ {
+  "text": "I know not all that may be coming, but be it what it will, I'll go to it laughing.",
+  "author": "Herman Melville",
+  "work": "Moby-Dick",
+  "meaning": "I do not know what the future will bring, but I will meet it with a smile."
+ },
+ {
+  "text": "It's no use going back to yesterday, because I was a different person then.",
+  "author": "Lewis Carroll",
+  "work": "Alice's Adventures in Wonderland",
+  "meaning": "Do not live in the past. You have changed, and you are not the same person now."
+ },
+ {
+  "text": "Everything's got a moral, if only you can find it.",
+  "author": "Lewis Carroll",
+  "work": "Alice's Adventures in Wonderland",
+  "meaning": "Every experience can teach you something, if you look for the lesson."
+ },
+ {
+  "text": "Who in the world am I? Ah, that's the great puzzle!",
+  "author": "Lewis Carroll",
+  "work": "Alice's Adventures in Wonderland",
+  "meaning": "Knowing who you really are is one of life's biggest and most interesting questions."
+ },
+ {
+  "text": "The mind is its own place, and in itself Can make a Heaven of Hell, a Hell of Heaven.",
+  "author": "John Milton",
+  "work": "Paradise Lost",
+  "meaning": "Your mind decides how you experience life. It can make a bad place good, or a good place bad."
+ },
+ {
+  "text": "Simplify, simplify.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Make life simpler. Let go of what you do not need."
+ },
+ {
+  "text": "I had three chairs in my house; one for solitude, two for friendship, three for society.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Keep room in life for quiet time alone, for close friends, and for the wider world."
+ },
+ {
+  "text": "I never found the companion that was so companionable as solitude.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Time alone can be good company. You do not always need other people."
+ },
+ {
+  "text": "Rather than love, than money, than fame, give me truth.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Truth matters more than love, money, or fame."
+ },
+ {
+  "text": "Say what you have to say, not what you ought.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Speak honestly. Say what you really think, not what others expect from you."
+ },
+ {
+  "text": "We must learn to reawaken and keep ourselves awake, not by mechanical aids, but by an infinite expectation of the dawn.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Stay awake to life through hope for each new day, not through outside pushes."
+ },
+ {
+  "text": "Every child begins the world again, to some extent.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Every child starts life fresh, with a chance to see the world in a new way."
+ },
+ {
+  "text": "I love a broad margin to my life.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Leave open space in your life. Do not fill every hour with work."
+ },
+ {
+  "text": "Time is but the stream I go a-fishing in.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Time flows past like a river. Use it calmly and enjoy it, without being afraid of it."
+ },
+ {
+  "text": "Books are the treasured wealth of the world and the fit inheritance of generations and nations.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Books are humanity's great treasure, passed from one generation to the next."
+ },
+ {
+  "text": "How many a man has dated a new era in his life from the reading of a book!",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "One book can change a person's life and begin a new chapter for them."
+ },
+ {
+  "text": "Goodness is the only investment that never fails.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Being good always pays back. It never loses its value."
+ },
+ {
+  "text": "Not till we are lost, in other words not till we have lost the world, do we begin to find ourselves.",
+  "author": "Henry David Thoreau",
+  "work": "Walden",
+  "meaning": "Sometimes we must lose our way before we truly discover who we are."
+ },
+ {
+  "text": "To believe your own thought, to believe that what is true for you in your private heart is true for all men,—that is genius.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Self-Reliance",
+  "meaning": "Trust your own deep thoughts. What feels true in your heart is often true for others too."
+ },
+ {
+  "text": "What I must do is all that concerns me, not what the people think.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Self-Reliance",
+  "meaning": "Do your own duty. Do not worry about what people will say."
+ },
+ {
+  "text": "The voyage of the best ship is a zigzag line of a hundred tacks.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Self-Reliance",
+  "meaning": "Even the best journey is full of turns. A crooked path can still reach the goal."
+ },
+ {
+  "text": "The power which resides in him is new in nature, and none but he knows what that is which he can do, nor does he know until he has tried.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Self-Reliance",
+  "meaning": "Everyone has a unique power, and you only learn what you can do by trying."
+ },
+ {
+  "text": "Nothing is at last sacred but the integrity of your own mind.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Self-Reliance",
+  "meaning": "Stay honest with yourself. That matters more than anything else."
+ },
+ {
+  "text": "These roses under my window make no reference to former roses or to better ones; they are for what they are.",
+  "author": "Ralph Waldo Emerson",
+  "work": "Self-Reliance",
+  "meaning": "Roses do not compare themselves with others. They simply are. Be happy being yourself."
+ },
+ {
+  "text": "Isn't it splendid to think of all the things there are to find out about?",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "The world is full of things to learn. How exciting that is!"
+ },
+ {
+  "text": "Now there is a bend in it. I don't know what lies around the bend, but I'm going to believe that the best does.",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "My plans have changed and I cannot see what comes next, but I choose to believe it will be good."
+ },
+ {
+  "text": "I don't want to be anyone but myself, even if I go uncomforted by diamonds all my life.",
+  "author": "L. M. Montgomery",
+  "work": "Anne of Green Gables",
+  "meaning": "Be happy being yourself, even if you never become rich."
+ },
+ {
+  "text": "Be worthy, love, and love will come.",
+  "author": "Louisa May Alcott",
+  "work": "Little Women",
+  "meaning": "Become a good person and love will find you."
+ },
+ {
+  "text": "Don't let the sun go down upon your anger.",
+  "author": "Louisa May Alcott",
+  "work": "Little Women",
+  "meaning": "Do not stay angry until nightfall. Forgive and make peace before the day ends."
+ },
+ {
+  "text": "I shall live forever—and ever—and ever!",
+  "author": "Frances Hodgson Burnett",
+  "work": "The Secret Garden",
+  "meaning": "A child's joyful feeling that he is healthy, alive, and full of life."
+ },
+ {
+  "text": "Trifles make the sum of life.",
+  "author": "Charles Dickens",
+  "work": "David Copperfield",
+  "meaning": "Small things, added together, make up your whole life."
+ },
+ {
+  "text": "One must be poor to know the luxury of giving!",
+  "author": "George Eliot",
+  "work": "Middlemarch",
+  "meaning": "Someone who has known hardship feels the real joy of giving to others."
+ },
+ {
+  "text": "It is a narrow mind which cannot look at a subject from various points of view.",
+  "author": "George Eliot",
+  "work": "Middlemarch",
+  "meaning": "A wise person looks at things from many sides, not just their own."
+ },
+ {
+  "text": "People are almost always better than their neighbors think they are.",
+  "author": "George Eliot",
+  "work": "Middlemarch",
+  "meaning": "Most people are kinder and better than others give them credit for."
+ },
+ {
+  "text": "Love hinders death. Love is life.",
+  "author": "Leo Tolstoy",
+  "work": "War and Peace (tr. Maude)",
+  "meaning": "Love is stronger than death. To love is to truly live."
+ },
+ {
+  "text": "All, everything that I understand, I understand only because I love.",
+  "author": "Leo Tolstoy",
+  "work": "War and Peace (tr. Maude)",
+  "meaning": "Love is what helps us understand people and the world."
+ },
+ {
+  "text": "Pure and complete sorrow is as impossible as pure and complete joy.",
+  "author": "Leo Tolstoy",
+  "work": "War and Peace (tr. Maude)",
+  "meaning": "No feeling lasts completely. Even in sorrow, there is some light, and even in joy, some shadow."
+ },
+ {
+  "text": "There is a stubbornness about me that never can bear to be frightened at the will of others.",
+  "author": "Jane Austen",
+  "work": "Pride and Prejudice",
+  "meaning": "I will not let others scare me into giving up what I want."
+ },
+ {
+  "text": "The Vision that you glorify in your mind, the Ideal that you enthrone in your heart—this you will build your life by, this you will become.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "What you hold in your mind and heart guides your life, and you grow into it."
+ },
+ {
+  "text": "Let a man radically alter his thoughts, and he will be astonished at the rapid transformation it will effect in the material conditions of his life.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Change your thoughts deeply, and your outer life will change faster than you expect."
+ },
+ {
+  "text": "A man cannot directly choose his circumstances, but he can choose his thoughts, and so indirectly, yet surely, shape his circumstances.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "You cannot always choose what happens, but you can choose your thoughts, and they shape your life."
+ },
+ {
+  "text": "Keep your hand firmly upon the helm of thought.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Stay in charge of your thoughts, just as a captain steers a ship."
+ },
+ {
+  "text": "As he thinks, so he is; as he continues to think, so he remains.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Your thoughts shape you. Keep the same thoughts, and you will stay the same."
+ },
+ {
+  "text": "The greatest achievement was at first and for a time a dream.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Every great success began as just a dream."
+ },
+ {
+  "text": "Dreams are the seedlings of realities.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Today's dreams are the seeds of tomorrow's real things."
+ },
+ {
+  "text": "He who would accomplish little must sacrifice little; he who would achieve much must sacrifice much.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "Bigger goals need bigger effort and sacrifice. What you give decides what you get."
+ },
+ {
+  "text": "The more tranquil a man becomes, the greater is his success, his influence, his power for good.",
+  "author": "James Allen",
+  "work": "As a Man Thinketh",
+  "meaning": "The calmer you are, the more you succeed and the more good you can do."
+ },
+ {
+  "text": "Thou hast made me known to friends whom I knew not.",
+  "author": "Rabindranath Tagore",
+  "work": "Gitanjali",
+  "meaning": "Thanks for bringing good people into my life, people I did not know before."
+ },
+ {
+  "text": "Where the mind is without fear and the head is held high; Where knowledge is free.",
+  "author": "Rabindranath Tagore",
+  "work": "Gitanjali",
+  "meaning": "A prayer for a place where people live without fear, with pride, and where learning is open to all."
+ },
+ {
+  "text": "He is there where the tiller is tilling the hard ground and where the pathmaker is breaking stones.",
+  "author": "Rabindranath Tagore",
+  "work": "Gitanjali",
+  "meaning": "God is found among hard-working people, not only in temples."
+ },
+ {
+  "text": "Failing to fetch me at first keep encouraged, Missing me one place search another, I stop somewhere waiting for you.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "If you do not find what you are looking for at first, keep going. It is waiting for you."
+ },
+ {
+  "text": "Be not discouraged, keep on, there are divine things well envelop'd.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "Do not lose heart. Keep going, because wonderful things are still ahead."
+ },
+ {
+  "text": "I swear to you there are divine things more beautiful than words can tell.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "Some things are so beautiful that words can never fully describe them."
+ },
+ {
+  "text": "Why, who makes much of a miracle? As to me I know of nothing else but miracles.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "Why call only rare events miracles? Everything in life is a miracle."
+ },
+ {
+  "text": "Not I, not any one else can travel that road for you, You must travel it for yourself.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "Others can guide you, but only you can walk your own path."
+ },
+ {
+  "text": "All goes onward and outward, nothing collapses.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "Life keeps moving forward. Nothing is really lost or wasted."
+ },
+ {
+  "text": "Allons! the road is before us!",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "Come on, let's go! A whole journey is waiting for us."
+ },
+ {
+  "text": "Now voyager sail thou forth to seek and find.",
+  "author": "Walt Whitman",
+  "work": "Leaves of Grass",
+  "meaning": "Go forward bravely, and search for new things to discover."
+ },
+ {
+  "text": "Let your own discretion be your tutor.",
+  "author": "William Shakespeare",
+  "work": "Hamlet",
+  "meaning": "Use your own good judgment as your teacher."
+ },
+ {
+  "text": "How poor are they that have not patience! What wound did ever heal but by degrees?",
+  "author": "William Shakespeare",
+  "work": "Othello",
+  "meaning": "Be patient. Every wound heals slowly, little by little."
+ },
+ {
+  "text": "Our bodies are our gardens, to the which our wills are gardeners.",
+  "author": "William Shakespeare",
+  "work": "Othello",
+  "meaning": "You shape your body and your life by what you choose, as a gardener shapes a garden."
+ },
+ {
+  "text": "Wisely and slow; they stumble that run fast.",
+  "author": "William Shakespeare",
+  "work": "Romeo and Juliet",
+  "meaning": "Go wisely and slowly. People who rush are the ones who trip and fall."
+ },
+ {
+  "text": "Come what come may, Time and the hour runs through the roughest day.",
+  "author": "William Shakespeare",
+  "work": "Macbeth",
+  "meaning": "Whatever happens, time moves on, and even the hardest day will end."
+ },
+ {
+  "text": "Things without all remedy Should be without regard: what's done is done.",
+  "author": "William Shakespeare",
+  "work": "Macbeth",
+  "meaning": "Do not worry about what cannot be changed. What's done is done, so move on."
+ },
+ {
+  "text": "The fault, dear Brutus, is not in our stars, But in ourselves.",
+  "author": "William Shakespeare",
+  "work": "Julius Caesar",
+  "meaning": "Do not blame luck or fate. Our lives depend on our own choices."
+ },
+ {
+  "text": "\"Begin at the beginning,\" the King said gravely, \"and go on till you come to the end: then stop.\"",
+  "author": "Lewis Carroll",
+  "work": "Alice's Adventures in Wonderland",
+  "meaning": "Start at the start, keep going to the end, and then stop. Simple steps get things done."
+ },
+ {
+  "text": "What though the field be lost? All is not lost.",
+  "author": "John Milton",
+  "work": "Paradise Lost",
+  "meaning": "Losing one battle is not losing everything. There is always something left to fight for."
+ },
+ {
+  "text": "Accuse not Nature, she hath done her part; Do thou but thine.",
+  "author": "John Milton",
+  "work": "Paradise Lost",
+  "meaning": "Do not blame what you were given. Life did its part, so now do yours."
+ },
+ {
+  "text": "Solitude sometimes is best society, And short retirement urges sweet return.",
+  "author": "John Milton",
+  "work": "Paradise Lost",
+  "meaning": "Being alone for a while can be good for you, and it makes coming back to others sweeter."
+ },
+ {
+  "text": "Such as thy thoughts and ordinary cogitations are, such will thy mind be in time.",
+  "author": "Marcus Aurelius",
+  "work": "Meditations (tr. Casaubon)",
+  "meaning": "You become what you think about every day. Choose your thoughts with care."
+ },
+ {
+  "text": "Look within; within is the fountain of all good. Such a fountain, where springing waters can never fail, so thou dig still deeper and deeper.",
+  "author": "Marcus Aurelius",
+  "work": "Meditations (tr. Casaubon)",
+  "meaning": "All good is inside you. Keep looking deeper, and you will always find more strength."
+ },
+ {
+  "text": "Meddle not with many things, if thou wilt live cheerfully.",
+  "author": "Marcus Aurelius",
+  "work": "Meditations (tr. Casaubon)",
+  "meaning": "Do not take on too many things. A simpler life is a happier life."
+ }
+]

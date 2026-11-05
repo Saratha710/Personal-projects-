@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:padding="20dp">
+
+        <Switch android:id="@+id/enabled" android:layout_width="match_parent" android:layout_height="56dp"
+            android:text="@string/reminders_on" android:textColor="@color/ink" android:textSize="20sp"
+            android:textStyle="bold" />
+        <TextView android:id="@+id/next" android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:textColor="@color/muted" android:textSize="14sp" />
+
+        <TextView style="@style/SectionTitle" android:text="@string/section_when" />
+        <RadioGroup android:id="@+id/mode" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <RadioButton android:id="@+id/mode_once" android:layout_width="match_parent"
+                android:layout_height="48dp" android:text="@string/mode_once" android:textSize="16sp" />
+            <RadioButton android:id="@+id/mode_custom" android:layout_width="match_parent"
+                android:layout_height="48dp" android:text="@string/mode_custom" android:textSize="16sp" />
+            <RadioButton android:id="@+id/mode_interval" android:layout_width="match_parent"
+                android:layout_height="48dp" android:text="@string/mode_interval" android:textSize="16sp" />
+        </RadioGroup>
+
+        <LinearLayout android:id="@+id/once_group" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:gravity="center_vertical" android:orientation="horizontal">
+            <TextView android:layout_width="80dp" android:layout_height="wrap_content"
+                android:text="@string/at_time" android:textColor="@color/ink" android:textSize="16sp" />
+            <TextView android:id="@+id/once_time" style="@style/TimeRow" />
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/custom_group" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:orientation="vertical">
+            <LinearLayout android:id="@+id/times_list" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:orientation="vertical" />
+            <TextView android:id="@+id/add_time" style="@style/TimeRow"
+                android:text="@string/add_time" android:textSize="16sp" />
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/interval_group" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:orientation="vertical">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:gravity="center_vertical" android:orientation="horizontal">
+                <TextView android:layout_width="110dp" android:layout_height="wrap_content"
+                    android:text="@string/every" android:textColor="@color/ink" android:textSize="16sp" />
+                <Spinner android:id="@+id/interval" android:layout_width="0dp" android:layout_weight="1"
+                    android:layout_height="48dp" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:gravity="center_vertical" android:orientation="horizontal">
+                <TextView android:layout_width="110dp" android:layout_height="wrap_content"
+                    android:text="@string/from" android:textColor="@color/ink" android:textSize="16sp" />
+                <TextView android:id="@+id/start_time" style="@style/TimeRow" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:gravity="center_vertical" android:orientation="horizontal">
+                <TextView android:layout_width="110dp" android:layout_height="wrap_content"
+                    android:text="@string/until" android:textColor="@color/ink" android:textSize="16sp" />
+                <TextView android:id="@+id/end_time" style="@style/TimeRow" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView style="@style/SectionTitle" android:text="@string/section_style" />
+        <RadioGroup android:id="@+id/style" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <RadioButton android:id="@+id/style_notification" android:layout_width="match_parent"
+                android:layout_height="48dp" android:text="@string/style_notification" android:textSize="16sp" />
+            <RadioButton android:id="@+id/style_alarm" android:layout_width="match_parent"
+                android:layout_height="48dp" android:text="@string/style_alarm" android:textSize="16sp" />
+        </RadioGroup>
+        <LinearLayout android:id="@+id/full_screen_row" style="@style/Row" android:clickable="true"
+            android:focusable="true" android:visibility="gone">
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:text="@string/full_screen_blocked" android:textColor="@color/accent" android:textSize="16sp" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:text="@string/full_screen_hint" android:textColor="@color/muted" android:textSize="14sp" />
+        </LinearLayout>
+
+        <TextView style="@style/SectionTitle" android:text="@string/section_sound" />
+        <LinearLayout android:id="@+id/tone_row" style="@style/Row" android:clickable="true" android:focusable="true">
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:text="@string/notification_tone" android:textColor="@color/ink" android:textSize="16sp" />
+            <TextView android:id="@+id/tone_name" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:textColor="@color/muted" android:textSize="14sp" />
+        </LinearLayout>
+        <LinearLayout android:id="@+id/alarm_tone_row" style="@style/Row" android:clickable="true" android:focusable="true">
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:text="@string/alarm_tone" android:textColor="@color/ink" android:textSize="16sp" />
+            <TextView android:id="@+id/alarm_tone_name" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:textColor="@color/muted" android:textSize="14sp" />
+        </LinearLayout>
+        <Switch android:id="@+id/vibrate" android:layout_width="match_parent" android:layout_height="56dp"
+            android:text="@string/vibrate" android:textColor="@color/ink" android:textSize="16sp" />
+
+        <TextView style="@style/SectionTitle" android:text="@string/section_check" />
+        <Button android:id="@+id/test" android:layout_width="match_parent" android:layout_height="52dp"
+            android:background="@drawable/button_fill" android:stateListAnimator="@null"
+            android:text="@string/test" android:textAllCaps="false" android:textColor="@color/paper"
+            android:textSize="16sp" />
+        <Button android:id="@+id/battery" android:layout_width="match_parent" android:layout_height="52dp"
+            android:layout_marginTop="12dp" android:background="@drawable/button_line"
+            android:stateListAnimator="@null" android:text="@string/battery" android:textAllCaps="false"
+            android:textColor="@color/accent" android:textSize="16sp" />
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" android:text="@string/battery_hint"
+            android:textColor="@color/muted" android:textSize="14sp" />
+    </LinearLayout>
+</ScrollView>
