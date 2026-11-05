@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "lobby": {
+      ".read": "auth != null",
+      "$uid": { ".write": "auth != null && auth.uid === $uid" }
+    },
+    "open": {
+      ".read": "auth != null",
+      "$id": { ".write": "auth != null" }
+    },
+    "matches": {
+      "$id": {
+        ".read": "auth != null",
+        ".write": "auth != null && (!data.exists() ? newData.child('host/uid').val() === auth.uid : (!newData.exists() && data.child('host/uid').val() === auth.uid && !data.child('guest').exists()))",
+        "guest": { ".write": "auth != null && !data.exists() && newData.child('uid').val() === auth.uid" },
+        "p": { "$uid": { ".write": "auth != null && auth.uid === $uid" } },
+        "winner": { ".write": "auth != null && !data.exists() && (data.parent().child('host/uid').val() === auth.uid || data.parent().child('guest/uid').val() === auth.uid)" }
+      }
+    }
+  }
+}

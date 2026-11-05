@@ -1,0 +1,10 @@
+{
+  "appId": "com.playsudoku.app",
+  "appName": "Play Sudoku",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "SplashScreen": { "launchAutoHide": false, "backgroundColor": "#1769D2", "showSpinner": false },
+    "SystemBars": { "insetsHandling": "css", "style": "DEFAULT" }
+  }
+}
